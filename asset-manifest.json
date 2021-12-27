@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/risk-dice/static/css/main.47ac094a.css",
+    "main.js": "/risk-dice/static/js/main.b89b3a31.js",
+    "static/js/787.c4bf69a9.chunk.js": "/risk-dice/static/js/787.c4bf69a9.chunk.js",
+    "static/media/world.png": "/risk-dice/static/media/world.5b385500a17d31e0ac57.png",
+    "index.html": "/risk-dice/index.html",
+    "main.47ac094a.css.map": "/risk-dice/static/css/main.47ac094a.css.map",
+    "main.b89b3a31.js.map": "/risk-dice/static/js/main.b89b3a31.js.map",
+    "787.c4bf69a9.chunk.js.map": "/risk-dice/static/js/787.c4bf69a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47ac094a.css",
+    "static/js/main.b89b3a31.js"
+  ]
+}
